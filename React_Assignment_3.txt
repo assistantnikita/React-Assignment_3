@@ -1,0 +1,41 @@
+React Day 3 Assignment
+
+
+ques 1) What is use of Gitignore File in React Application?
+ans) .gitignore file is used in a git repository to ignore the files and directories which are unnecessary to project, this will be ignored by the git once the changes as been committed to the repository.
+ The type of files which will gets ignored are the mainly temporary files and the files which should not be versioned.
+
+ques 2) How we can create the React Application? Explain the all Steps for them.
+step1:- Download and install the node.js and npm (Nope Package Manager) also comes with node.js
+step2:- Create react app in your terminal 
+            npx create-react-app nil
+step3: - Move into current directory
+step4: - npm startand open new browser window.
+step5: - modify into app.js file to make changes into your app
+
+
+Ques 3) What do you know about NPM?
+ans... Npm node package manager is a tool that comes with node.js.it help for building js applications which conatins the libraries and piece of code in it.
+
+Ques 4) What are the advantages of using React?
+ans ... React is very simple to use and leran and build a web applications.
+      ... React is fast, efficient and easy to learn.
+      ... SEO friendly , it making it easier way to make websites.
+      ...React uses a virtual DOM, which help to speed up rendering updates, improving performance.
+      ...Efficient Update.
+
+ques 5) What are the limitations of react?
+ans  ...Lack of proper documentation
+          Fast update provides less time to document with proper instruction
+        ...Development Speed
+       Some developers learn continuosly new technologies.
+         ....JSX
+      confuse beginners and make react complicated to learn
+       ....Problem with SEO
+       Requied Expertise from develpers as react had problem with google and indexing.
+
+
+
+
+
+
